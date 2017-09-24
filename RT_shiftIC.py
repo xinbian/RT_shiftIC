@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-#you can use this to extend RT domain in z direction
-#orginal nx ny nz after nx ny 2*nz
-#velocity is set to zero 
+#you can use this to shift the calculation domain in z direction
 #density is set to horizotal average at top and bottom with 40 grid porints offset
 #pressure is similar to density and use hydrostatic equation rho*g*dz
 @author: Xin
